@@ -6,9 +6,12 @@ public class PedagioBEAN {
     private int ped_pracod;
     private int ped_veicod;
     private String ped_data;
+    // fazer comite
+     
 
     public int getPedcod() {
         return pedcod;
+        System.out.println("fazendo o puhs");
     }
 
     public void setPedcod(int pedcod) {
